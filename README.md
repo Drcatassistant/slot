@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## Date:
+## Date:04-04-2024
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -24,6 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+
 '''
 <html>
 <head>
@@ -33,7 +34,7 @@ Execute the program using runserver command.
 <center>
 <img src="/static/logo.png" height="100" width="540">
 <table border="3" cellspacing="6" cellpading="6">
-<caption>SLOT TIMETABLE - MADESWARAN.M(212223040106)</caption>
+<caption>SLOT TIMETABLE - JACKSON RAJ A(212223040071)</caption>
 <tr>
 <th bgcolor="green">Day/Time</th>
 <th bgcolor="green">Monday</th>
@@ -46,7 +47,7 @@ Execute the program using runserver command.
 <td bgcolor="green">8-10</td>
 <td bgcolor="pink">BEEE</td>
 <td bgcolor="pink">FREE</td>
-<td bgcolor="pink">FREE</td>
+<td bgcolor="pink">FRE</td>
 <td bgcolor="pink">CN</td>
 <td bgcolor="pink">web</td>
 </tr>
@@ -119,6 +120,7 @@ Execute the program using runserver command.
 </body>
 </html>
 '''
+
 
 ## OUTPUT
 ![alt text](<Screenshot 2024-04-04 161325.png>)
