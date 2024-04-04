@@ -25,8 +25,7 @@ Execute the program using runserver command.
 
 ## PROGRAM
 
-'''
-<html>
+```<html>
 <head>
 <title> My Time Table </title>
 </head>
@@ -118,10 +117,8 @@ Execute the program using runserver command.
 </table>
 </center>
 </body>
-</html>
-'''
-
-
+</html>```
+```
 ## OUTPUT
 ![alt text](<Screenshot 2024-04-04 161325.png>)
 
