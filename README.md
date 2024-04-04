@@ -47,7 +47,7 @@ Execute the program using runserver command.
 <td bgcolor="green">8-10</td>
 <td bgcolor="pink">BEEE</td>
 <td bgcolor="pink">FREE</td>
-<td bgcolor="pink">FRE</td>
+<td bgcolor="pink">FREE</td>
 <td bgcolor="pink">CN</td>
 <td bgcolor="pink">web</td>
 </tr>
